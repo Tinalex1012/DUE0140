@@ -9,3 +9,5 @@
 "# 新增開檔案分析留言程式 057_read_file.py"
 
 "# 新增記帳程式專案 062_products.py"
+
+"# 新增function使用 070_function.py"
